@@ -2,3 +2,10 @@
 .project
 .gradle
 .idea
+.settings
+.DS_Store
+.cache
+*.iml
+gen_java
+build
+bin
