@@ -27,7 +27,7 @@ public class AppResourceConfig extends ResourceConfig {
         beanConfig.setVersion("1.0.0");
         beanConfig.setSchemes(new String[] { "http", "https" });
         beanConfig.setBasePath("/app");
-        beanConfig.setTitle("Video Game Database - REST Assured Udemy Course - Test Application");
+        beanConfig.setTitle("Video Game Database - Test Application");
         beanConfig.setDescription("https://github.com/TechieTester/VideoGameDB");
         beanConfig.getSwagger().addConsumes(MediaType.APPLICATION_JSON);
         beanConfig.getSwagger().addProduces(MediaType.APPLICATION_JSON);
