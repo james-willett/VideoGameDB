@@ -7,6 +7,9 @@ This application was developed to support my Udemy courses:
 - [Gatling Fundamentals for Stress, Load & Performance Testing](https://www.udemy.com/course/gatling-fundamentals/)
 
 # Usage
-To run the application, simply browse to the repository directory on your computer and type `./gradlew bootRun`
+To run the application from the command line, you have two options:
+
+- **Gradle** - `./gradlew bootRun`
+- **Maven**  - `mvn spring-boot:run`
 
 When the application is running, open a browser and go to [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/) to explore the API endpoints
