@@ -1,5 +1,5 @@
 # VideoGameDB
-Video Game Database application with API endpoints that support **JSON** and **XML**
+ An Awesome Video Game Database application with API endpoints that support **JSON** and **XML**
 
 This application was developed to support my Udemy courses: 
 
